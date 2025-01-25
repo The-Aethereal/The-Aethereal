@@ -6,12 +6,12 @@ Hello there! 👋 I'm **Suryansh Saxena**, an Electrical Engineering student at 
 
 ## 🛠️ Skills 🛠️
 
-### 🌐 Programming Languages
-- **C++** 🏅
-- **JavaScript** 🏅
-- **Solidity** 🏅
-- **Assembly** 🏅
-- **React** 🏅
+🔧 Technologies & Tools
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/-Foundry-00BFAE?style=for-the-badge&logo=foundry&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### 🚀 Interests
 - **CTFs (Capture the Flag)**
